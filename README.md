@@ -1,6 +1,6 @@
 # Online-Education-Adaptability-Analysis
 ## Overview
-This repository contains a data analysis project focused on predicting students' adaptability to online education.
+This repository contains a data analysis project focused on predicting students' adaptability to online education.  
 The project involves:
 - building predictive models
 - identifying key factors influencing online education adaptability
