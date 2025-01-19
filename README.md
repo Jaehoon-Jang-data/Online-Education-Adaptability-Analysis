@@ -2,7 +2,7 @@
 ## Overview
 This repository contains a data analysis project focused on predicting students' adaptability to online education.  
 The project involves:
-- building predictive models
+- building predictive models: [notebook]([eda-and-modeling] online-education-adaptability.ipynb)
 - identifying key factors influencing online education adaptability
 - insights for improving adaptability in online learning environments
 
