@@ -2,7 +2,7 @@
 ## Overview
 This repository contains a data analysis project focused on predicting students' adaptability to online education.  
 The project involves:
-- building predictive models
+- building predictive models: [notebook](https://github.com/Jaehoon-Jang-data/Online-Education-Adaptability-Analysis/blob/da53c0189876dfbca50f1f2c3db7c0b4d7a414dc/%5Beda-and-modeling%5D%20online-education-adaptability.ipynb)
 - identifying key factors influencing online education adaptability
 - insights for improving adaptability in online learning environments
 
